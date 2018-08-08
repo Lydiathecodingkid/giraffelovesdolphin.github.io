@@ -16,9 +16,9 @@
 
 <body>
 <h1>Giraffe loves Dolphin</h1>
-<img src="giraffelovesdolphin_files/YqD4j_Qq_400x400.jpeg" width="333">
-<img src="giraffelovesdolphin_files/DiT7rToWAAA6lP1.jpeg" height="333">
-<img src="giraffelovesdolphin_files/DhrT3PeX0AAySSP.jpeg" height="333">
+<img src="https://pbs.twimg.com/media/DkFAzFxXcAAz8WQ.jpg" width="333">
+<img src="https://pbs.twimg.com/media/DgYd7M0WsAEDMVb.jpg" height="333">
+<img src="https://pbs.twimg.com/media/DgJmqOKXcAAUIJH.jpg" height="333">
 <p>
    Name: Nikita <br>
    Birth: Forever young <br>
