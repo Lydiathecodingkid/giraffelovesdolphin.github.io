@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
     <title>Giraffe loves Dolphin</title>
 <style type="text/css">
-    body{background-color: rgb(128, 128, 163);}
+    body{background-image:url(https://www.publicdomainpictures.net/pictures/250000/velka/rough-textured-purple-background.jpg);}
     h1{background-color: rgb(255,180,190);
        color: white}
     h2{background-color: rgb(255,180,190);
